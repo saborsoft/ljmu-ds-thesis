@@ -23,4 +23,4 @@ Lin.Reg. could be usable for the avg players with decent accuracy, but for star 
 With the futbin.csv, the decision tree notebook will do some models, decision tree regressor, random forest, grid search cv with random forest regressor. After the hyper parameter tuning, the results were much better compared to the linear model.
 
 ### Neural Network step
-With the same dataset, I created several neural networks for checking the model's perfomances. It has deeper and wider models as well. The results aren't as good as the decision tree results.
+With the same dataset, I created several neural networks for checking the model's perfomances. It has deeper and wider models as well. The results aren't as good as the decision tree results. The notebook is created under Google Colab, and saved the file from Colab to GitHub.
